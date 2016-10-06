@@ -1,0 +1,22 @@
+{
+  "name": "agencias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "cheerio": "^0.20.0",
+    "iconv-lite": "^0.4.13",
+    "lodash": "^4.11.1",
+    "request": "^2.72.0",
+    "timer.js": "^1.0.4",
+    "xmldom": "^0.1.22",
+    "xpath": "0.0.23"
+  }
+}
